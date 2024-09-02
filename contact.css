@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  color: gold;
+}
+.navigation{
+  text-align: right;
+}
+.name{
+  font-weight: bold;
+}
+body{
+  background-image: radial-gradient(circle at 1px 1px, gray 1px, transparent 0);
+  background-size: 20px 20px;
+  
+}
+h3{
+ color: maroon;
+}
+a{
+  text-decoration: none;
+}
